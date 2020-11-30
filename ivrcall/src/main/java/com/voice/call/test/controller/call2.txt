@@ -1,0 +1,7 @@
+<Response>
+
+<Say voice="alice">Thanks for trying our service at voicefonica. Enjoy!</Say>
+
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+
+</Response>
